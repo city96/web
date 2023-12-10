@@ -1,1 +1,1 @@
-Testing github sites + DNS propagation.
+Landing page for personal site.
