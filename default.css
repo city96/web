@@ -122,7 +122,7 @@ a {
 /*  Image BG  */
 @media (min-width:700px) {
 	body {
-		background-image: url('media/bg-test.jpg'),url('bg-test.webp');
+		background-image: url('media/bg-test.jpg'),url('media/bg-test.webp');
 		background-repeat: no-repeat, no-repeat;
 		background-attachment: fixed, fixed;
 		background-size: cover, cover;
